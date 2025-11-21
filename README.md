@@ -26,3 +26,5 @@ The 'save.gol' file is plain text 1's and 0's to allow for direct editing with y
 ## Screenshots
 
 ![Three gliders](/screenshots/screenshot.png)
+
+Uses [Raylib](https://github.com/raysan5/raylib) for window creation, drawing, and input handling.
