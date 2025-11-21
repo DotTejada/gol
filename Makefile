@@ -8,4 +8,4 @@ else
 endif
 
 all:
-	gcc -o rlife rlife.c -I$(RAYLIB_PATH)/include -L$(RAYLIB_PATH)/lib $(FLAGS)
+	gcc -o gol gol.c -I$(RAYLIB_PATH)/include -L$(RAYLIB_PATH)/lib $(FLAGS)
